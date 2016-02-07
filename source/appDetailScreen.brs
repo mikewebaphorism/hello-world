@@ -6,6 +6,7 @@
 
    '  Sike is the man
    '  Yes lets start programming in Brightscript again .... Rock or Roku
+   '  SikeEclipse branch / Try
     
 Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
     port=CreateObject("roMessagePort")
