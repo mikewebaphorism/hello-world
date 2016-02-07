@@ -3,10 +3,7 @@
 '**  November 2009
 '**  Copyright (c) 2009 Roku Inc. All Rights Reserved.
 '**********************************************************
-    ' Cool
-    ' this is another cool test 
-    '  Superbowl sunday 
-   '  This is a test 
+
    '  Sike is the man
     
 Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
