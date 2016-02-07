@@ -7,6 +7,7 @@
     ' this is another cool test 
     '  Superbowl sunday 
    '  This is a test 
+   '  Sike is the man
     
 Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
     port=CreateObject("roMessagePort")
